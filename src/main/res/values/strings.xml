@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">k i j k</string>
+    <string name="greeting"> Hello</string>
+    <string name="updateButtonText">Update App</string>
+</resources>
