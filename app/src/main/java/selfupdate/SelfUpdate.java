@@ -36,7 +36,7 @@ public class SelfUpdate {
 
     private static final String FILENAME_APK = "update.apk";
     private static final String CONTENT_TYPE_APK = "application/vnd.android.package-archive";
-    private static final String BASE_URL = "https://api.github.com/repos/%s/%s/releases/tags/0.0.1";
+    private static final String BASE_URL = "https://api.github.com/repos/%s/%s/releases/latest";
 
     private static AppCompatActivity activity;
     private static SelfUpdateHttpClient httpClient;
