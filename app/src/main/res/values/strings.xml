@@ -2,4 +2,7 @@
     <string name="app_name">k i j k</string>
     <string name="greeting"> Hello</string>
     <string name="updateButtonText">Update App</string>
+    <!-- selfupdate  -->
+    <string name="dialog_update_title">Do you want to update the app ?</string>
+    <string name="dialog_downloading_title">Downloading the update …</string>
 </resources>
